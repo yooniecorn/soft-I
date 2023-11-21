@@ -1,0 +1,2 @@
+stat: 30
+modifier: 10
